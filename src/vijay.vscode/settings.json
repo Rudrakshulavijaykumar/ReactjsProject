@@ -1,0 +1,5 @@
+{
+    "node.autoDetect": "always",
+    "node.useGlobal": false,
+    "node.version": "<v18.17.1>"
+}
